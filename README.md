@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<h1>hola que tal XD</h1>
+
 <p>jajajaja que chivo va vos</p>
   <P>hey vichos hijos de miercoles, pillin descargalo y lo jugas XD</p>
  <a href="yuru camp.png" class= "btn" download="yuru camp.png">Descargar</a>
