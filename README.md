@@ -1,5 +1,5 @@
 ## rossales
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -11,13 +11,13 @@
 <p>jajajaja que chivo va vos</p>
 
 ''<a href="tuarchivo.yuru camp" target="_blank">''clic aqui''</a>''
-''<a href="yuru camp.png" target="_blank"><img src="'''yuru camp.png'''" alt="'''Youtube'''" /></a>
+''<a href="yuru camp.png" target="_blank"><img src="'''yuru camp.png'''" alt="'''DESCARGAR'''" /></a>
 </body>
 
 </html>
 
 
-[Link](url) and ![Image](src)
+
 ```
 
 
