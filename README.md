@@ -11,7 +11,7 @@
 <p>jajajaja que chivo va vos</p>
 
 ''<a href="tuarchivo.yuru camp" target="_blank">''clic aqui''</a>''
-''<a href="https://www.youtube.com" target="_blank"><img src="'''https://www.youtube.com'''" alt="'''Youtube'''" /></a>
+''<a href="yuru camp.png" target="_blank"><img src="'''yuru camp.png'''" alt="'''Youtube'''" /></a>
 </body>
 
 </html>
