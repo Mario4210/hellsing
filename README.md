@@ -1,9 +1,8 @@
-## rossales
+## KING DICE 42
 
 <html>
 
 <head>
-<title>Rossales1024</title>
 </head>
 
 <body>
