@@ -7,8 +7,8 @@
 
 <body>
 
-<p>jajajaja que chivo va vos</p>
-  <P>hey vichos hijos de miercoles, pillin descargalo y lo jugas XD</p>
+<p>BIENVENIDA XD</p>
+  <P>HOLA QUE TAL</p>
  <a href="yuru camp.png" class= "btn" download="yuru camp.png">Descargar</a>
   <p>FNFK</p>
  <a href="https://www.mediafire.com/file/r6c1iw3usu8b1b6/FNFK.rar/file" class= "btn" download="yuru camp.png">Descargar</a>
