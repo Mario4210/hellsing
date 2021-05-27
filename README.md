@@ -9,9 +9,9 @@
 
 <p>BIENVENIDA XD</p>
   <P>HOLA QUE TAL</p>
- <a href="yuru camp.png" class= "btn" download="yuru camp.png">Descargar</a>
+ <a href="621482.jpg" class= "btn" download="621482.jpg">Descargar</a>
   <p>FNFK</p>
- <a href="https://www.mediafire.com/file/r6c1iw3usu8b1b6/FNFK.rar/file" class= "btn" download="yuru camp.png">Descargar</a>
+ <a href="https://www.mediafire.com/file/r6c1iw3usu8b1b6/FNFK.rar/file" class= "btn" download="">Descargar</a>
 
 
 
